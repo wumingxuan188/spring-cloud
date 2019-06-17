@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/config_client/config_client.iml" filepath="$PROJECT_DIR$/config_client/config_client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/config_server/config_server.iml" filepath="$PROJECT_DIR$/config_server/config_server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/serice-feign/serice-feign.iml" filepath="$PROJECT_DIR$/serice-feign/serice-feign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service-hi/service-hi.iml" filepath="$PROJECT_DIR$/service-hi/service-hi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service-miya/service-miya.iml" filepath="$PROJECT_DIR$/service-miya/service-miya.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service-ribbon/service-ribbon.iml" filepath="$PROJECT_DIR$/service-ribbon/service-ribbon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service-zuul/service-zuul.iml" filepath="$PROJECT_DIR$/service-zuul/service-zuul.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-starter-gateway/spring-cloud-starter-gateway.iml" filepath="$PROJECT_DIR$/spring-cloud-starter-gateway/spring-cloud-starter-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/springCloud.iml" filepath="$PROJECT_DIR$/.idea/springCloud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springCloudAllTest/springCloudAllTest.iml" filepath="$PROJECT_DIR$/springCloudAllTest/springCloudAllTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springCloudClient/springCloudClient.iml" filepath="$PROJECT_DIR$/springCloudClient/springCloudClient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springCloudError/springCloudError.iml" filepath="$PROJECT_DIR$/springCloudError/springCloudError.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springCloudServer/springCloudServer.iml" filepath="$PROJECT_DIR$/springCloudServer/springCloudServer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring_boot_actuator/spring_boot_actuator.iml" filepath="$PROJECT_DIR$/spring_boot_actuator/spring_boot_actuator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring_boot_swagger/spring_boot_swagger.iml" filepath="$PROJECT_DIR$/spring_boot_swagger/spring_boot_swagger.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring_boot_test_by_book/spring_boot_test_by_book.iml" filepath="$PROJECT_DIR$/spring_boot_test_by_book/spring_boot_test_by_book.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sringCloudCustomer/sringCloudCustomer.iml" filepath="$PROJECT_DIR$/sringCloudCustomer/sringCloudCustomer.iml" />
+    </modules>
+  </component>
+</project>

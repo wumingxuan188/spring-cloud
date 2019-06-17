@@ -1,0 +1,15 @@
+
+my:
+  name: wumingxuan
+  age: 12
+  sex: man
+  number: ${random.int} #随机生成一个整数
+  uuid: ${random.uuid} #随机生成uuid
+  value: ${random.value} #随机生成一个值
+#多个环境配置文件的选择
+#  application-test.yml  测试环境
+#  application-dev.yml    开发环境
+#  application-prod.yml   生产环境
+spring:
+  profiles:
+    active: dev

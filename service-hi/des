@@ -1,0 +1,4 @@
+下载zipkin-server-2.10.2-exec.jar包,启动
+访问地址localhost:9411
+下载地址:
+https://dl.bintray.com/openzipkin/maven/io/zipkin/java/zipkin-server/

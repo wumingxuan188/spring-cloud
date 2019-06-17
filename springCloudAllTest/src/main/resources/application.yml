@@ -1,0 +1,19 @@
+
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:8761/eureka/
+server:
+
+  port: 8100
+spring:
+  application:
+    name: all_test
+#  手动维护一个服务列表
+stores:
+  ribbon:
+    listOfServers: service-hi:8767,service-hi:8768
+# 关闭向eureka client 获取服务列表的功能
+ribbon:
+  eureka:
+    enabled: false

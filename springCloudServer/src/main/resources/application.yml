@@ -1,0 +1,19 @@
+my:
+  name: wumingxuna
+server:
+  port: 8761
+
+eureka:
+  instance:
+    hostname: localhost
+  client:
+    registerWithEureka: false
+    fetchRegistry: false
+    serviceUrl:
+      defaultZone: http://${eureka.instance.hostname}:${server.port}/eureka/
+#使用那个配置文件
+#spring:
+#  profiles:
+#    active: peer2
+# 网址
+# https://www.cnblogs.com/hellxz/p/8855166.html

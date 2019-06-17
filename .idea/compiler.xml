@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="config-server" />
+        <module name="config_client" />
+        <module name="config_server" />
+        <module name="serice-feign" />
+        <module name="service-hi" />
+        <module name="service-miya" />
+        <module name="service-ribbon" />
+        <module name="service-zuul" />
+        <module name="spring-cloud-starter-gateway" />
+        <module name="spring_boot_actuator" />
+        <module name="spring_boot_swagger" />
+        <module name="spring_boot_test_by_book" />
+        <module name="springCloudAllTest" />
+        <module name="springCloudClient" />
+        <module name="springCloudError" />
+        <module name="springCloudServer" />
+        <module name="sringCloudCustomer" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="config-server" target="1.8" />
+      <module name="config_client" target="1.8" />
+      <module name="config_server" target="1.8" />
+      <module name="demo" target="1.8" />
+      <module name="serice-feign" target="1.8" />
+      <module name="service-hi" target="1.8" />
+      <module name="service-miya" target="1.8" />
+      <module name="service-ribbon" target="1.8" />
+      <module name="service-zuul" target="1.8" />
+      <module name="spring-cloud-starter-gateway" target="1.8" />
+      <module name="spring_boot_actuator" target="1.8" />
+      <module name="spring_boot_jpa" target="1.8" />
+      <module name="spring_boot_jpa_redis" target="1.8" />
+      <module name="spring_boot_mybaits" target="1.8" />
+      <module name="spring_boot_swagger" target="1.8" />
+      <module name="spring_boot_test_by_book" target="1.8" />
+      <module name="springcloud_parent" target="1.5" />
+      <module name="springCloudAllTest" target="1.8" />
+      <module name="springCloudClient" target="1.8" />
+      <module name="springCloudCustomer" target="1.8" />
+      <module name="springCloudError" target="1.8" />
+      <module name="springCloudServer" target="1.8" />
+      <module name="sringCloudCustomer" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

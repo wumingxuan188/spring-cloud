@@ -1,0 +1,7 @@
+spring.application.name: eureka-server
+  #提供服务端口1111
+server.port: 8761
+  #提供服务的域名，这里在hosts文件中修改了
+eureka.instance.hostname: peer1
+  #向第二个注册中心注册自己
+eureka.client.service-url.defaultZone: http://peer2:8762/eureka/

@@ -1,0 +1,1342 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0d18142f-7a60-4cda-b19f-e5058575e84e" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/springCloudServer/target/" />
+    <ignored path="$PROJECT_DIR$/springCloudClient/target/" />
+    <ignored path="$PROJECT_DIR$/springCloudCustomer/target/" />
+    <ignored path="$PROJECT_DIR$/sringCloudCustomer/target/" />
+    <ignored path="$PROJECT_DIR$/springCloudError/target/" />
+    <ignored path="$PROJECT_DIR$/serice-feign/target/" />
+    <ignored path="$PROJECT_DIR$/service-zuul/target/" />
+    <ignored path="$PROJECT_DIR$/service-ribbon/target/" />
+    <ignored path="$PROJECT_DIR$/springcloud_parent/target/" />
+    <ignored path="$PROJECT_DIR$/config_server/target/" />
+    <ignored path="$PROJECT_DIR$/config_client/target/" />
+    <ignored path="$PROJECT_DIR$/spring_boot_test_by_book/target/" />
+    <ignored path="$PROJECT_DIR$/demo/target/" />
+    <ignored path="$PROJECT_DIR$/spring_boot_jpa/target/" />
+    <ignored path="$PROJECT_DIR$/spring_boot_jpa_redis/target/" />
+    <ignored path="$PROJECT_DIR$/spring_boot_mybaits/target/" />
+    <ignored path="$PROJECT_DIR$/spring_boot_swagger/target/" />
+    <ignored path="$PROJECT_DIR$/spring_boot_actuator/target/" />
+    <ignored path="$PROJECT_DIR$/springCloudAllTest/target/" />
+    <ignored path="$PROJECT_DIR$/service-hi/target/" />
+    <ignored path="$PROJECT_DIR$/service-miya/target/" />
+    <ignored path="$PROJECT_DIR$/spring-cloud-starter-gateway/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1852233070">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="37" />
+          <entry key="project.open.time.1" value="3" />
+          <entry key="project.open.time.10" value="3" />
+          <entry key="project.open.time.12" value="1" />
+          <entry key="project.open.time.13" value="2" />
+          <entry key="project.open.time.17" value="1" />
+          <entry key="project.open.time.2" value="2" />
+          <entry key="project.open.time.20" value="1" />
+          <entry key="project.open.time.21" value="1" />
+          <entry key="project.open.time.30" value="1" />
+          <entry key="project.open.time.33" value="1" />
+          <entry key="project.open.time.34" value="2" />
+          <entry key="project.open.time.35" value="1" />
+          <entry key="project.open.time.36" value="1" />
+          <entry key="project.open.time.37" value="1" />
+          <entry key="project.open.time.38" value="2" />
+          <entry key="project.open.time.39" value="2" />
+          <entry key="project.open.time.4" value="2" />
+          <entry key="project.open.time.40" value="1" />
+          <entry key="project.open.time.41" value="1" />
+          <entry key="project.open.time.42" value="1" />
+          <entry key="project.open.time.45" value="1" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.open.time.51" value="1" />
+          <entry key="project.open.time.6" value="4" />
+          <entry key="project.open.time.7" value="6" />
+          <entry key="project.open.time.8" value="2" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.open.time.90" value="1" />
+          <entry key="project.opened" value="47" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="class" value="34" />
+          <entry key="cmd" value="1" />
+          <entry key="des" value="1" />
+          <entry key="factories" value="1" />
+          <entry key="ico" value="1" />
+          <entry key="iml" value="3" />
+          <entry key="java" value="310" />
+          <entry key="json" value="1" />
+          <entry key="md" value="1" />
+          <entry key="mvnw" value="1" />
+          <entry key="properties" value="25" />
+          <entry key="provides" value="1" />
+          <entry key="springboot" value="1" />
+          <entry key="start" value="3" />
+          <entry key="xml" value="29" />
+          <entry key="yml" value="64" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="34" />
+          <entry key="IDEA_MODULE" value="3" />
+          <entry key="Image" value="1" />
+          <entry key="JAVA" value="310" />
+          <entry key="JSON" value="1" />
+          <entry key="Markdown" value="1" />
+          <entry key="PLAIN_TEXT" value="8" />
+          <entry key="Properties" value="25" />
+          <entry key="XML" value="29" />
+          <entry key="YAML" value="64" />
+          <entry key="spring.factories" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="des" value="42" />
+          <entry key="java" value="3345" />
+          <entry key="properties" value="88" />
+          <entry key="start" value="24" />
+          <entry key="txt" value="4" />
+          <entry key="xml" value="75" />
+          <entry key="yml" value="1010" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="3345" />
+          <entry key="PLAIN_TEXT" value="70" />
+          <entry key="Properties" value="88" />
+          <entry key="XML" value="75" />
+          <entry key="YAML" value="1010" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="springCloud" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/service-miya/src/main/java/com/casic/User.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="162">
+              <caret line="6" column="29" selection-start-line="6" selection-start-column="29" selection-end-line="6" selection-end-column="29" />
+              <folding>
+                <element signature="e#130#131#0" expanded="true" />
+                <element signature="e#170#171#0" expanded="true" />
+                <element signature="e#202#203#0" expanded="true" />
+                <element signature="e#233#234#0" expanded="true" />
+                <element signature="e#259#260#0" expanded="true" />
+                <element signature="e#298#299#0" expanded="true" />
+                <element signature="e#328#329#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/service-ribbon/src/main/java/com/casic/CasicApplication.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="432">
+              <caret line="25" column="48" selection-start-line="25" selection-start-column="44" selection-end-line="25" selection-end-column="48" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spring-cloud-starter-gateway/src/main/java/com/springcloudstartergateway/SpringcloudstartergatewayApplication.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="351">
+              <caret line="28" column="31" selection-start-line="28" selection-start-column="31" selection-end-line="28" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spring-cloud-starter-gateway/src/main/resources/application.properties">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/springCloudAllTest/src/main/java/com/casic/controller/HelloControler.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="648">
+              <caret line="30" column="18" selection-start-line="30" selection-start-column="18" selection-end-line="30" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/springCloudClient/src/main/java/com/casic/pojo/User.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="108">
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/springCloudError/src/main/java/com/casic/errordemo/ErrordemoApplication.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="351">
+              <caret line="21" column="49" selection-start-line="21" selection-start-column="49" selection-end-line="21" selection-end-column="49" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/com/fasterxml/jackson/module/jackson-module-jaxb-annotations/2.9.8/jackson-module-jaxb-annotations-2.9.8-sources.jar!/com/fasterxml/jackson/module/jaxb/ser/DataHandlerJsonSerializer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="108">
+              <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/spring_boot_test_by_book/pom.xml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/springCloudAllTest/src/main/java/com/casic/CasicApplication.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="162">
+              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>@Load</find>
+      <find>actuator</find>
+      <find>foo</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/spring_boot_swagger" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/spring_boot_mybaits/src/main/java/com/casic/controller/EmployeeController.java" />
+        <option value="$PROJECT_DIR$/spring_boot_mybaits/pom.xml" />
+        <option value="$PROJECT_DIR$/spring_boot_mybaits/src/main/java/com/casic/CasicApplication.java" />
+        <option value="$PROJECT_DIR$/spring_boot_test_by_book/src/main/java/Swagger2.java" />
+        <option value="$PROJECT_DIR$/spring_boot_test_by_book/src/main/resources/application-dev.yml" />
+        <option value="$PROJECT_DIR$/spring_boot_test_by_book/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/spring_boot_test_by_book/src/main/java/com/casic/Swagger2.java" />
+        <option value="$PROJECT_DIR$/spring_boot_test_by_book/src/main/java/com/casic/config/Swagger2.java" />
+        <option value="$PROJECT_DIR$/spring_boot_test_by_book/src/main/java/com/casic/CasicApplication.java" />
+        <option value="$PROJECT_DIR$/spring_boot_test_by_book/src/main/java/com/casic/controller/TestCotroller.java" />
+        <option value="$PROJECT_DIR$/spring_boot_test_by_book/pom.xml" />
+        <option value="$PROJECT_DIR$/spring_boot_swagger/pom.xml" />
+        <option value="$PROJECT_DIR$/spring_boot_swagger/src/main/java/com/casic/Swagger2Config.java" />
+        <option value="$PROJECT_DIR$/spring_boot_swagger/src/main/java/com/casic/controller/TestSwaggerController.java" />
+        <option value="$PROJECT_DIR$/spring_boot_actuator/pom.xml" />
+        <option value="$PROJECT_DIR$/spring_boot_actuator/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/spring_boot_actuator/src/main/java/com/casic/CasicApplication.java" />
+        <option value="$PROJECT_DIR$/springCloudServer/src/main/resources/application-peer1.yml" />
+        <option value="$PROJECT_DIR$/springCloudServer/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/sringCloudCustomer/src/main/java/com/casic/customer/pojo/User.java" />
+        <option value="$PROJECT_DIR$/sringCloudCustomer/src/main/java/com/casic/customer/controller/HelloControler.java" />
+        <option value="$PROJECT_DIR$/springCloudAllTest/src/main/java/com/casic/CasicApplication.java" />
+        <option value="$PROJECT_DIR$/springCloudAllTest/src/main/java/com/casic/controller/TestController.java" />
+        <option value="$PROJECT_DIR$/springCloudAllTest/src/main/java/com/casic/controller/HelloControler.java" />
+        <option value="$PROJECT_DIR$/springCloudAllTest/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/springCloudServer/src/main/resources/application-peer2.yml" />
+        <option value="$PROJECT_DIR$/serice-feign/src/main/java/com/demo/service/SchedualServiceHi.java" />
+        <option value="$PROJECT_DIR$/springCloudClient/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/serice-feign/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/serice-feign/src/main/java/com/demo/service/SchedualServiceHiHystric.java" />
+        <option value="$PROJECT_DIR$/serice-feign/src/main/java/com/demo/service/HiService.java" />
+        <option value="$PROJECT_DIR$/springCloudClient/src/main/java/com/casic/DemoApplication.java" />
+        <option value="$PROJECT_DIR$/springCloudClient/src/main/java/com/casic/pojo/User.java" />
+        <option value="$PROJECT_DIR$/springCloudError/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/sringCloudCustomer/src/main/java/com/casic/customer/CustomerApplication.java" />
+        <option value="$PROJECT_DIR$/sringCloudCustomer/pom.xml" />
+        <option value="$PROJECT_DIR$/sringCloudCustomer/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/springCloudClient/src/test/java/com/casic/test/MyCallback.java" />
+        <option value="$PROJECT_DIR$/springCloudClient/src/test/java/com/casic/test/MyThreadPool.java" />
+        <option value="$PROJECT_DIR$/springCloudClient/src/test/java/com/casic/test/MyFuturTask.java" />
+        <option value="$PROJECT_DIR$/spring_boot_actuator/start" />
+        <option value="$PROJECT_DIR$/spring_boot_swagger/start" />
+        <option value="$PROJECT_DIR$/service-hi/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/service-hi/des" />
+        <option value="$PROJECT_DIR$/service-hi/src/main/java/com/casic/demo/DemoApplication.java" />
+        <option value="$PROJECT_DIR$/spring-cloud-starter-gateway/src/main/java/com/springcloudstartergateway/SpringcloudstartergatewayApplication.java" />
+        <option value="$PROJECT_DIR$/serice-feign/src/main/java/com/demo/controller/HiController.java" />
+        <option value="$PROJECT_DIR$/sringCloudCustomer/src/main/java/com/casic/customer/service/HelloService.java" />
+        <option value="$PROJECT_DIR$/service-miya/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/service-miya/src/main/java/com/casic/User.java" />
+        <option value="$PROJECT_DIR$/service-miya/src/main/java/com/casic/CasicApplication.java" />
+      </list>
+    </option>
+  </component>
+  <component name="InvalidFacetManager">
+    <ignored-facets>
+      <facet id="config_client/invalid/Web" />
+      <facet id="config_server/invalid/Web" />
+      <facet id="serice-feign/invalid/Web" />
+      <facet id="service-ribbon/invalid/Web" />
+      <facet id="service-zuul/invalid/Web" />
+      <facet id="springCloudAllTest/invalid/Web" />
+      <facet id="springCloudClient/invalid/Web" />
+      <facet id="springCloudError/invalid/Web" />
+      <facet id="springCloudServer/invalid/Web" />
+      <facet id="spring_boot_actuator/invalid/Web" />
+      <facet id="spring_boot_swagger/invalid/Web" />
+      <facet id="spring_boot_test_by_book/invalid/Web" />
+      <facet id="sringCloudCustomer/invalid/Web" />
+    </ignored-facets>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="I:/apache-maven-3.3.9" />
+        <option name="userSettingsFile" value="I:\apache-maven-3.3.9\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="335" />
+    <option name="width" value="980" />
+    <option name="height" value="1040" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+          <State>
+            <id>Android</id>
+          </State>
+          <State>
+            <id>Application Servers</id>
+          </State>
+          <State>
+            <id>CDI (Contexts and Dependency Injection)</id>
+          </State>
+          <State>
+            <id>CorrectnessLintAndroid</id>
+          </State>
+          <State>
+            <id>Faces Model</id>
+          </State>
+          <State>
+            <id>JSP</id>
+          </State>
+          <State>
+            <id>Java</id>
+          </State>
+          <State>
+            <id>Java EE</id>
+          </State>
+          <State>
+            <id>LintAndroid</id>
+          </State>
+          <State>
+            <id>PerformanceJava</id>
+          </State>
+          <State>
+            <id>PortabilityJava</id>
+          </State>
+          <State>
+            <id>Resource managementJava</id>
+          </State>
+          <State>
+            <id>SQL</id>
+          </State>
+          <State>
+            <id>WebSocket</id>
+          </State>
+        </expanded-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <autoscrollFromSource ProjectPane="true" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="springCloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springCloud" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springCloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springCloud" type="462c0819:PsiDirectoryNode" />
+              <item name="spring_boot_test_by_book" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springCloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelOrder2" value="2" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RequestMappingsPanelWidth2" value="75" />
+    <property name="SearchEverywhereHistoryKey" value="GatewayFilterFactory&#9;FILE&#9;jar://H:/repositories/repository/org/springframework/cloud/spring-cloud-gateway-core/2.1.1.RELEASE/spring-cloud-gateway-core-2.1.1.RELEASE-sources.jar!/org/springframework/cloud/gateway/filter/factory/AbstractChangeRequestUriGatewayFilterFactory.java&#10;AddRequestHeaderGatewayFilterFactory&#9;PSI&#9;JAVA://org.springframework.cloud.gateway.filter.factory.AddRequestHeaderGatewayFilterFactory&#10;org.springframework.cloud.gateway.filter.factory&#9;PSI&#9;JAVA://org.springframework.cloud.gateway.filter.factory.AbstractChangeRequestUriGatewayFilterFactory&#10;mycall&#9;FILE&#9;file://G:/code1/springCloud/springCloudClient/src/test/java/com/casic/test/MyCallback.java&#10;Threa&#9;PSI&#9;JAVA://java.lang.Thread&#10;fu&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/util/concurrent/Future.java&#10;futur&#9;PSI&#9;JAVA://java.util.concurrent.Future&#10;LoadBalancerF&#9;PSI&#9;JAVA://org.springframework.cloud.openfeign.ribbon.LoadBalancerFeignClient&#10;registerFei&#9;PSI&#9;JAVA://org.springframework.cloud.openfeign.FeignClientsRegistrar#registerFeignClient&#10;iRu&#9;PSI&#9;JAVA://com.netflix.loadbalancer.IRule&#10;loadbalance&#9;FILE&#9;jar://H:/repositories/repository/org/springframework/cloud/spring-cloud-netflix-ribbon/2.1.1.RELEASE/spring-cloud-netflix-ribbon-2.1.1.RELEASE.jar!/org/springframework/cloud/netflix/ribbon/RibbonLoadBalancerClient.class&#10;loadbalancerClient&#9;PSI&#9;JAVA://org.springframework.cloud.client.loadbalancer.LoadBalancerClient&#10;peeraw&#9;PSI&#9;JAVA://com.netflix.eureka.registry.PeerAwareInstanceRegistryImpl&#10;discovery&#9;PSI&#9;JAVA://com.netflix.discovery.DiscoveryClient" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1560754491331" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="jdk.selected.PYTHON_MODULE" value="Python 3.7 (mypython)" />
+    <property name="last_opened_file_path" value="G:/springCloud/SpringCloudLearning-master/sc-f-chapter6" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.demo.service" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.casic" />
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="G:\code1\springCloud\springCloudServer\src\main\resources" />
+      <recent name="G:\code1\springCloud\spring_boot_mybaits\src\main\resources" />
+      <recent name="G:\code1\springCloud\spring_boot_mybaits\src\main\java\com\casic" />
+      <recent name="G:\code1\springCloud\spring_boot_jpa_redis\src\main\java\com\casic" />
+      <recent name="G:\code1\springCloud\serice-feign\src\main\java\com\demo" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.casic.controller" />
+      <recent name="com.casic.customer.pojo" />
+      <recent name="com.casic.service" />
+      <recent name="com.casic.mapper" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="G:\code1\springCloud\spring_boot_mybaits\src\main\java\com\casic\mapper" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+    <option name="contentProportion" value="0.19672132" />
+  </component>
+  <component name="RunManager" selected="Spring Boot.CasicApplication (4)">
+    <configuration name="CaiscApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="service-zuul" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.caisc.CaiscApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CasicApplication (2)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="spring_boot_actuator" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.casic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.casic.CasicApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CasicApplication (3)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="spring_boot_swagger" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.casic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.casic.CasicApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CasicApplication (4)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="service-miya" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.casic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.casic.CasicApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CasicApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="service-ribbon" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.casic.CasicApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CasicApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="spring_boot_jpa" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.casic.config.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.casic.CasicApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CasicApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="spring_boot_jpa_redis" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.casic.config.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.casic.CasicApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CasicApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="spring_boot_mybaits" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.casic.config.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.casic.CasicApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CasicApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="spring_boot_test_by_book" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.casic.config.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.casic.CasicApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CasicApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="spring_boot_test_by_book" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.casic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.casic.CasicApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="UPDATE_ACTION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CustomerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="sringCloudCustomer" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.casic.customer.CustomerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DemoApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="service-hi" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.casic.demo.DemoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DemoApplication (2)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="serice-feign" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.demo.DemoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DemoApplication (3)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="springCloudServer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.casic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.casic.DemoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DemoApplication (4)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="springCloudClient" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.casic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.casic.DemoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="demo" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.demo.DemoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ErrordemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" singleton="false">
+      <module name="springCloudError" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.casic.errordemo.ErrordemoApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringcloudstartergatewayApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-cloud-starter-gateway" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.springcloudstartergateway.SpringcloudstartergatewayApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.CustomerApplication" />
+      <item itemvalue="Spring Boot.ErrordemoApplication" />
+      <item itemvalue="Spring Boot.DemoApplication (2)" />
+      <item itemvalue="Spring Boot.CaiscApplication" />
+      <item itemvalue="Spring Boot.CasicApplication" />
+      <item itemvalue="Spring Boot.DemoApplication" />
+      <item itemvalue="Spring Boot.DemoApplication (1)" />
+      <item itemvalue="Spring Boot.SpringcloudstartergatewayApplication" />
+      <item itemvalue="Spring Boot.CasicApplication (2)" />
+      <item itemvalue="Spring Boot.CasicApplication (3)" />
+      <item itemvalue="Spring Boot.CasicApplication (4)" />
+      <item itemvalue="Spring Boot.DemoApplication (3)" />
+      <item itemvalue="Spring Boot.DemoApplication (4)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.CasicApplication (4)" />
+        <item itemvalue="Spring Boot.DemoApplication (4)" />
+        <item itemvalue="Spring Boot.DemoApplication (3)" />
+        <item itemvalue="Spring Boot.CasicApplication (3)" />
+        <item itemvalue="Spring Boot.CasicApplication (2)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\吴明轩\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0d18142f-7a60-4cda-b19f-e5058575e84e" name="Default Changelist" comment="" />
+      <created>1551946608686</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1551946608686</updated>
+      <workItem from="1551946611460" duration="6210000" />
+      <workItem from="1552006352143" duration="625000" />
+      <workItem from="1552265221020" duration="3438000" />
+      <workItem from="1552351249843" duration="2961000" />
+      <workItem from="1552556948658" duration="3330000" />
+      <workItem from="1552613850378" duration="4527000" />
+      <workItem from="1552711294685" duration="1176000" />
+      <workItem from="1552827821881" duration="3036000" />
+      <workItem from="1553151176542" duration="2200000" />
+      <workItem from="1553271870301" duration="2617000" />
+      <workItem from="1553336243377" duration="10410000" />
+      <workItem from="1553356071439" duration="1650000" />
+      <workItem from="1553359453726" duration="591000" />
+      <workItem from="1553441144802" duration="2988000" />
+      <workItem from="1553474890308" duration="6831000" />
+      <workItem from="1553485606831" duration="3550000" />
+      <workItem from="1553492837184" duration="1557000" />
+      <workItem from="1553734401413" duration="2564000" />
+      <workItem from="1553926082319" duration="4825000" />
+      <workItem from="1553948414262" duration="3228000" />
+      <workItem from="1554039452714" duration="3028000" />
+      <workItem from="1554082973119" duration="612000" />
+      <workItem from="1554100807156" duration="34000" />
+      <workItem from="1554101217981" duration="1093000" />
+      <workItem from="1555395687414" duration="268000" />
+      <workItem from="1556442164178" duration="921000" />
+      <workItem from="1556892070705" duration="6079000" />
+      <workItem from="1557017556281" duration="4892000" />
+      <workItem from="1557103288861" duration="4141000" />
+      <workItem from="1557134109917" duration="718000" />
+      <workItem from="1557189693352" duration="3806000" />
+      <workItem from="1557277057669" duration="2392000" />
+      <workItem from="1557280294662" duration="176000" />
+      <workItem from="1557280969982" duration="8914000" />
+      <workItem from="1557363058834" duration="1797000" />
+      <workItem from="1557448296996" duration="2995000" />
+      <workItem from="1557455953960" duration="1225000" />
+      <workItem from="1557465219262" duration="671000" />
+      <workItem from="1557488829459" duration="3624000" />
+      <workItem from="1557554009340" duration="613000" />
+      <workItem from="1557708019627" duration="2469000" />
+      <workItem from="1558666910442" duration="2098000" />
+      <workItem from="1559610581717" duration="597000" />
+      <workItem from="1560129639666" duration="2874000" />
+      <workItem from="1560213795688" duration="2471000" />
+      <workItem from="1560472740750" duration="1198000" />
+      <workItem from="1560735198224" duration="2058000" />
+    </task>
+    <task id="LOCAL-00001" summary="增加文件">
+      <created>1557219479617</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1557219479617</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="DemoApplicationTests_contextLoads - 2019.03.23 at 18h 25m 12s.xml">
+      <configuration name="DemoApplicationTests.contextLoads" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DemoApplicationTests_contextLoads - 2019.03.23 at 18h 40m 12s.xml">
+      <configuration name="DemoApplicationTests.contextLoads" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DemoApplicationTests_contextLoads - 2019.03.23 at 18h 46m 22s.xml">
+      <configuration name="DemoApplicationTests.contextLoads" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="130078000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.16595745" visible="true" weight="0.26742628" />
+      <window_info id="Structure" order="1" sideWeight="0.83404255" side_tool="true" weight="0.24262735" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" sideWeight="0.8289738" side_tool="true" weight="0.20375335" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info id="Web" order="7" sideWeight="0.5021097" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.34042552" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32907802" />
+      <window_info anchor="bottom" id="Spring" order="7" weight="0.32907802" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.3286119" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Java Enterprise" order="10" weight="0.5878187" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.2141844" />
+      <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="13" weight="0.03971631" />
+      <window_info anchor="bottom" id="Run Dashboard" order="14" visible="true" weight="0.28085107" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Maven Projects" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="Bean Validation" order="9" />
+      <window_info anchor="right" id="SciView" order="10" weight="0.3297587" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.16730769" visible="true" weight="0.24262735" />
+      <window_info id="Structure" order="1" sideWeight="0.8326923" side_tool="true" weight="0.23257373" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" sideWeight="0.8289738" side_tool="true" weight="0.20375335" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info id="Web" order="7" sideWeight="0.5021097" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.34042552" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32907802" />
+      <window_info anchor="bottom" id="Spring" order="7" weight="0.32907802" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.3286119" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Java Enterprise" order="10" weight="0.5878187" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.18156028" />
+      <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="13" weight="0.03971631" />
+      <window_info active="true" anchor="bottom" id="Run Dashboard" order="14" visible="true" weight="0.5092199" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Maven Projects" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="Bean Validation" order="9" />
+      <window_info anchor="right" id="SciView" order="10" weight="0.3297587" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="增加文件" />
+    <option name="LAST_COMMIT_MESSAGE" value="增加文件" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/util/Map.java</url>
+          <line>129</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/spring_boot_mybaits/src/main/java/com/casic/controller/EmployeeController.java</url>
+          <line>26</line>
+          <properties />
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/service-miya/src/main/java/com/casic/CasicApplication.java</url>
+          <line>51</line>
+          <properties />
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/springCloudClient/src/test/java/com/casic/test/MyThreadPool.java</url>
+          <line>8</line>
+          <properties class="com.casic.test.MyThreadPool" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.1.6.RELEASE/spring-web-5.1.6.RELEASE-sources.jar!/org/springframework/web/client/RestTemplate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="306" column="17" selection-start-line="306" selection-start-column="17" selection-end-line="306" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.1.6.RELEASE/spring-web-5.1.6.RELEASE-sources.jar!/org/springframework/web/client/RestOperations.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="372">
+          <caret line="228" column="34" selection-start-line="228" selection-start-column="22" selection-end-line="228" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/zipkin/brave/brave/5.6.1/brave-5.6.1.jar!/brave/sampler/Sampler.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="8" column="32" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service-hi/des">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="3" column="38" selection-start-line="3" selection-start-column="38" selection-end-line="3" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-cloud-starter-gateway/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="28" column="60" selection-start-line="28" selection-start-column="53" selection-end-line="28" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-gateway-core/2.1.1.RELEASE/spring-cloud-gateway-core-2.1.1.RELEASE.jar!/org/springframework/cloud/gateway/route/builder/BooleanSpec.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="254">
+          <caret line="37" column="53" selection-start-line="37" selection-start-column="36" selection-end-line="37" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-gateway-core/2.1.1.RELEASE/spring-cloud-gateway-core-2.1.1.RELEASE.jar!/org/springframework/cloud/gateway/route/builder/GatewayFilterSpec.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="87" column="23" selection-start-line="87" selection-start-column="23" selection-end-line="87" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/projectreactor/reactor-core/3.2.8.RELEASE/reactor-core-3.2.8.RELEASE.jar!/reactor/core/publisher/Mono.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="51" column="22" selection-start-line="51" selection-start-column="22" selection-end-line="51" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/projectreactor/reactor-core/3.2.8.RELEASE/reactor-core-3.2.8.RELEASE-sources.jar!/reactor/core/publisher/MonoEmpty.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="13">
+          <caret line="38" column="4" selection-start-line="38" selection-start-column="4" selection-end-line="38" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/projectreactor/reactor-core/3.2.8.RELEASE/reactor-core-3.2.8.RELEASE-sources.jar!/reactor/core/publisher/Mono.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="100" column="22" selection-start-line="100" selection-start-column="22" selection-end-line="100" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service-hi/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="1" column="3" selection-start-line="1" selection-start-column="3" selection-end-line="1" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-gateway-core/2.1.1.RELEASE/spring-cloud-gateway-core-2.1.1.RELEASE.jar!/org/springframework/cloud/gateway/filter/factory/AbstractChangeRequestUriGatewayFilterFactory.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="5" column="25" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-gateway-core/2.1.1.RELEASE/spring-cloud-gateway-core-2.1.1.RELEASE-sources.jar!/org/springframework/cloud/gateway/route/builder/GatewayFilterSpec.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1404">
+          <caret line="87" column="35" selection-start-line="87" selection-start-column="29" selection-end-line="87" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-gateway-core/2.1.1.RELEASE/spring-cloud-gateway-core-2.1.1.RELEASE-sources.jar!/org/springframework/cloud/gateway/route/builder/BooleanSpec.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="226">
+          <caret line="75" column="19" selection-start-line="75" selection-start-column="19" selection-end-line="75" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-gateway-core/2.1.1.RELEASE/spring-cloud-gateway-core-2.1.1.RELEASE-sources.jar!/org/springframework/cloud/gateway/filter/factory/AddRequestHeaderGatewayFilterFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="25" column="37" selection-start-line="25" selection-start-column="37" selection-end-line="25" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-gateway-core/2.1.1.RELEASE/spring-cloud-gateway-core-2.1.1.RELEASE-sources.jar!/org/springframework/cloud/gateway/filter/factory/AbstractNameValueGatewayFilterFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="25" column="59" selection-start-line="25" selection-start-column="59" selection-end-line="25" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-gateway-core/2.1.1.RELEASE/spring-cloud-gateway-core-2.1.1.RELEASE-sources.jar!/org/springframework/cloud/gateway/filter/factory/AbstractChangeRequestUriGatewayFilterFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="35" column="48" selection-start-line="35" selection-start-column="48" selection-end-line="35" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/util/function/Function.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="40" column="25" selection-start-line="40" selection-start-column="17" selection-end-line="40" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/serice-feign/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/serice-feign/src/main/java/com/demo/DemoApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="11" column="22" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sringCloudCustomer/src/main/java/com/casic/customer/pojo/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sringCloudCustomer/src/main/java/com/casic/customer/service/HelloService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sringCloudCustomer/src/main/java/com/casic/customer/controller/HelloControler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="32" column="39" selection-start-line="32" selection-start-column="39" selection-end-line="32" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sringCloudCustomer/src/main/java/com/casic/customer/CustomerApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springCloudServer/src/main/java/com/casic/DemoApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/2.1.3.RELEASE/spring-boot-autoconfigure-2.1.3.RELEASE.jar!/org/springframework/boot/autoconfigure/SpringBootApplication.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="334">
+          <caret line="35" column="18" selection-start-line="35" selection-start-column="18" selection-end-line="35" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springCloudClient/src/main/java/com/casic/DemoApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="32" selection-start-line="30" selection-end-line="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring_boot_actuator/src/main/java/com/casic/CasicApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="5" column="12" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/2.1.3.RELEASE/spring-boot-autoconfigure-2.1.3.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/SpringBootApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1134">
+          <caret line="70" column="24" selection-start-line="70" selection-start-column="13" selection-end-line="70" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config_client/src/main/resources/bootstrap.yml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config_client/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service-miya/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="3" column="38" selection-start-line="1" selection-start-column="1" selection-end-line="3" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring_boot_actuator/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="13" column="47" selection-start-line="13" selection-start-column="47" selection-end-line="13" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring_boot_actuator/start">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" column="30" selection-start-line="2" selection-start-column="30" selection-end-line="2" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/serice-feign/src/main/java/com/demo/controller/HiController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="25" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/serice-feign/src/main/java/com/demo/service/SchedualServiceHiHystric.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="155">
+          <caret line="8" column="59" selection-start-line="8" selection-start-column="59" selection-end-line="8" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/serice-feign/src/main/java/com/demo/service/SchedualServiceHi.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/zipkin/brave/brave/5.6.1/brave-5.6.1-sources.jar!/brave/sampler/Sampler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="16" column="30" selection-start-line="16" selection-start-column="30" selection-end-line="16" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service-miya/src/main/java/com/casic/CasicApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="837">
+          <caret line="49" column="33" selection-start-line="49" selection-start-column="21" selection-end-line="49" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service-hi/src/main/java/com/casic/demo/DemoApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="891">
+          <caret line="44" column="33" selection-start-line="44" selection-start-column="19" selection-end-line="44" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/fasterxml/jackson/module/jackson-module-jaxb-annotations/2.9.8/jackson-module-jaxb-annotations-2.9.8.jar!/com/fasterxml/jackson/module/jaxb/ser/DataHandlerJsonSerializer.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="149">
+          <caret line="24" column="13" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service-miya/src/main/java/com/casic/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="6" column="29" selection-start-line="6" selection-start-column="29" selection-end-line="6" selection-end-column="29" />
+          <folding>
+            <element signature="e#130#131#0" expanded="true" />
+            <element signature="e#170#171#0" expanded="true" />
+            <element signature="e#202#203#0" expanded="true" />
+            <element signature="e#233#234#0" expanded="true" />
+            <element signature="e#259#260#0" expanded="true" />
+            <element signature="e#298#299#0" expanded="true" />
+            <element signature="e#328#329#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service-ribbon/src/main/java/com/casic/CasicApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="25" column="48" selection-start-line="25" selection-start-column="44" selection-end-line="25" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-cloud-starter-gateway/src/main/java/com/springcloudstartergateway/SpringcloudstartergatewayApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="28" column="31" selection-start-line="28" selection-start-column="31" selection-end-line="28" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-cloud-starter-gateway/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springCloudAllTest/src/main/java/com/casic/controller/HelloControler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="648">
+          <caret line="30" column="18" selection-start-line="30" selection-start-column="18" selection-end-line="30" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springCloudClient/src/main/java/com/casic/pojo/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springCloudError/src/main/java/com/casic/errordemo/ErrordemoApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="21" column="49" selection-start-line="21" selection-start-column="49" selection-end-line="21" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/fasterxml/jackson/module/jackson-module-jaxb-annotations/2.9.8/jackson-module-jaxb-annotations-2.9.8-sources.jar!/com/fasterxml/jackson/module/jaxb/ser/DataHandlerJsonSerializer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springCloudAllTest/src/main/java/com/casic/CasicApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring_boot_test_by_book/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>scala-sdk-2.11.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>serice-feign</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: antlr:antlr:2.7.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
