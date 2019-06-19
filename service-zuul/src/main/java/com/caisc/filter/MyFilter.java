@@ -9,15 +9,28 @@ import org.springframework.stereotype.Component;
 
 import javax.servlet.http.HttpServletRequest;
 
+/**
+ * 自定义zuul过滤器
+ */
 @Component
 public class MyFilter extends ZuulFilter {
     private static Logger log = LoggerFactory.getLogger(MyFilter.class);
+
+    /**
+     * 过滤的类型
+     * @return
+     */
     @Override
     public String filterType() {
         return "pre";
     }
 
 
+    /**
+     * 过滤的顺序
+     * 越小越先执行
+     * @return
+     */
     @Override
     public int filterOrder() {
         return 0;
