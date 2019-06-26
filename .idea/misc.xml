@@ -22,6 +22,7 @@
         <option value="$PROJECT_DIR$/service-hi/pom.xml" />
         <option value="$PROJECT_DIR$/service-miya/pom.xml" />
         <option value="$PROJECT_DIR$/spring-cloud-starter-gateway/pom.xml" />
+        <option value="$PROJECT_DIR$/cloud_zuul_book/pom.xml" />
       </list>
     </option>
   </component>

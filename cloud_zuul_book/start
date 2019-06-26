@@ -1,0 +1,4 @@
+启动说明:
+先启动 SERVICE-CLIENT SERVICE-RIBBON 两个项目
+访问:http://localhost:8080/v1/api-a/hi?name=tom&token=2
+因为加入了过滤器 所以加上了token
