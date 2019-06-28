@@ -1,0 +1,39 @@
+#本地模式
+#spring:
+#  cloud:
+#    config:
+#      server:
+#        native:
+#          search-locations: classpath:/shared  #存放本地配置问价的地址  取名要符合spring.application.name}-{spring.profiles.active}.yml
+#  profiles:
+#    active: native  #本地模式
+#  application:
+#    name: config-server-book
+#server:
+#  port: 8769
+#从远程仓库获取
+server:
+  port: 8768
+spring:
+  cloud:
+    config:
+      server:
+        git:
+          uri: https://github.com/wumingxuan188/configServer.git #仓库的地址
+          search-paths: config                               #仓库下的文件
+          username: wumingxuan188                        #用户名
+          password: xuan19950201                        #密码
+      label: master                                     #分支
+  application:
+    name: config-server
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:8761/eureka/
+#配置bus消息总线
+management:
+  endpoints:
+    web:
+      exposure:
+        include: bus-refresh
+

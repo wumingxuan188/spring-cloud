@@ -3,6 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/cloud_zuul_book/cloud_zuul_book.iml" filepath="$PROJECT_DIR$/cloud_zuul_book/cloud_zuul_book.iml" />
+      <module fileurl="file://$PROJECT_DIR$/configClientBook/configClientBook.iml" filepath="$PROJECT_DIR$/configClientBook/configClientBook.iml" />
+      <module fileurl="file://$PROJECT_DIR$/configEurekaBook/configEurekaBook.iml" filepath="$PROJECT_DIR$/configEurekaBook/configEurekaBook.iml" />
+      <module fileurl="file://$PROJECT_DIR$/configServerBook/configServerBook.iml" filepath="$PROJECT_DIR$/configServerBook/configServerBook.iml" />
       <module fileurl="file://$PROJECT_DIR$/config_client/config_client.iml" filepath="$PROJECT_DIR$/config_client/config_client.iml" />
       <module fileurl="file://$PROJECT_DIR$/config_server/config_server.iml" filepath="$PROJECT_DIR$/config_server/config_server.iml" />
       <module fileurl="file://$PROJECT_DIR$/serice-feign/serice-feign.iml" filepath="$PROJECT_DIR$/serice-feign/serice-feign.iml" />

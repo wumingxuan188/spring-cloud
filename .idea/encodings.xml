@@ -2,6 +2,9 @@
 <project version="4">
   <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
     <file url="file://$PROJECT_DIR$/cloud_zuul_book" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/configClientBook" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/configEurekaBook" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/configServerBook" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/config_client" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/config_server" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/serice-feign" charset="UTF-8" />

@@ -10,6 +10,9 @@
         <module name="config-server" />
         <module name="config_client" />
         <module name="config_server" />
+        <module name="configClientBook" />
+        <module name="configEurekaBook" />
+        <module name="configServerBook" />
         <module name="serice-feign" />
         <module name="service-hi" />
         <module name="service-miya" />
@@ -31,6 +34,9 @@
       <module name="config-server" target="1.8" />
       <module name="config_client" target="1.8" />
       <module name="config_server" target="1.8" />
+      <module name="configClientBook" target="1.8" />
+      <module name="configEurekaBook" target="1.8" />
+      <module name="configServerBook" target="1.8" />
       <module name="demo" target="1.8" />
       <module name="serice-feign" target="1.8" />
       <module name="service-hi" target="1.8" />

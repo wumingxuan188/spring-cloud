@@ -1,0 +1,6 @@
+spring boot 1.x和2.x有许多不同
+bus总线的访问路径:
+localhost:8762/actuator/bus-refresh
+
+参考网址:
+https://blog.csdn.net/u012161563/article/details/81011214
