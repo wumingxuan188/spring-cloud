@@ -7,6 +7,7 @@
     <file url="file://$PROJECT_DIR$/configServerBook" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/config_client" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/config_server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gatewayServiceBook" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/serice-feign" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/serice-feign/src/main/resources/application.yml" charset="GBK" />
     <file url="file://$PROJECT_DIR$/service-hi" charset="UTF-8" />
@@ -23,6 +24,8 @@
     <file url="file://$PROJECT_DIR$/spring_boot_test_by_book" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring_boot_test_by_book/src/main/resources/application.yml" charset="GBK" />
     <file url="file://$PROJECT_DIR$/sringCloudCustomer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/userServiceBook" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zipkinServerBook" charset="UTF-8" />
     <file url="PROJECT" charset="UTF-8" />
   </component>
 </project>

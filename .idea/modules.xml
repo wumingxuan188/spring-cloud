@@ -8,6 +8,8 @@
       <module fileurl="file://$PROJECT_DIR$/configServerBook/configServerBook.iml" filepath="$PROJECT_DIR$/configServerBook/configServerBook.iml" />
       <module fileurl="file://$PROJECT_DIR$/config_client/config_client.iml" filepath="$PROJECT_DIR$/config_client/config_client.iml" />
       <module fileurl="file://$PROJECT_DIR$/config_server/config_server.iml" filepath="$PROJECT_DIR$/config_server/config_server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sringCloudCustomer/customer.iml" filepath="$PROJECT_DIR$/sringCloudCustomer/customer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gatewayServiceBook/gatewayServiceBook.iml" filepath="$PROJECT_DIR$/gatewayServiceBook/gatewayServiceBook.iml" />
       <module fileurl="file://$PROJECT_DIR$/serice-feign/serice-feign.iml" filepath="$PROJECT_DIR$/serice-feign/serice-feign.iml" />
       <module fileurl="file://$PROJECT_DIR$/service-hi/service-hi.iml" filepath="$PROJECT_DIR$/service-hi/service-hi.iml" />
       <module fileurl="file://$PROJECT_DIR$/service-miya/service-miya.iml" filepath="$PROJECT_DIR$/service-miya/service-miya.iml" />
@@ -22,7 +24,8 @@
       <module fileurl="file://$PROJECT_DIR$/spring_boot_actuator/spring_boot_actuator.iml" filepath="$PROJECT_DIR$/spring_boot_actuator/spring_boot_actuator.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring_boot_swagger/spring_boot_swagger.iml" filepath="$PROJECT_DIR$/spring_boot_swagger/spring_boot_swagger.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring_boot_test_by_book/spring_boot_test_by_book.iml" filepath="$PROJECT_DIR$/spring_boot_test_by_book/spring_boot_test_by_book.iml" />
-      <module fileurl="file://$PROJECT_DIR$/sringCloudCustomer/sringCloudCustomer.iml" filepath="$PROJECT_DIR$/sringCloudCustomer/sringCloudCustomer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/userServiceBook/userServiceBook.iml" filepath="$PROJECT_DIR$/userServiceBook/userServiceBook.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zipkinServerBook/zipkinServerBook.iml" filepath="$PROJECT_DIR$/zipkinServerBook/zipkinServerBook.iml" />
     </modules>
   </component>
 </project>

@@ -13,6 +13,8 @@
         <module name="configClientBook" />
         <module name="configEurekaBook" />
         <module name="configServerBook" />
+        <module name="customer" />
+        <module name="gatewayServiceBook" />
         <module name="serice-feign" />
         <module name="service-hi" />
         <module name="service-miya" />
@@ -26,7 +28,8 @@
         <module name="springCloudClient" />
         <module name="springCloudError" />
         <module name="springCloudServer" />
-        <module name="sringCloudCustomer" />
+        <module name="userServiceBook" />
+        <module name="zipkinServerBook" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -37,7 +40,9 @@
       <module name="configClientBook" target="1.8" />
       <module name="configEurekaBook" target="1.8" />
       <module name="configServerBook" target="1.8" />
+      <module name="customer" target="1.8" />
       <module name="demo" target="1.8" />
+      <module name="gatewayServiceBook" target="1.8" />
       <module name="serice-feign" target="1.8" />
       <module name="service-hi" target="1.8" />
       <module name="service-miya" target="1.8" />
@@ -57,6 +62,9 @@
       <module name="springCloudError" target="1.8" />
       <module name="springCloudServer" target="1.8" />
       <module name="sringCloudCustomer" target="1.8" />
+      <module name="userServiceBook" target="1.8" />
+      <module name="zipkinserver" target="1.8" />
+      <module name="zipkinServerBook" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

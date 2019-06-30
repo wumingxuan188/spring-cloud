@@ -8,7 +8,6 @@
       <list>
         <option value="$PROJECT_DIR$/springCloudServer/pom.xml" />
         <option value="$PROJECT_DIR$/springCloudClient/pom.xml" />
-        <option value="$PROJECT_DIR$/sringCloudCustomer/pom.xml" />
         <option value="$PROJECT_DIR$/springCloudError/pom.xml" />
         <option value="$PROJECT_DIR$/serice-feign/pom.xml" />
         <option value="$PROJECT_DIR$/service-zuul/pom.xml" />
@@ -26,6 +25,10 @@
         <option value="$PROJECT_DIR$/configServerBook/pom.xml" />
         <option value="$PROJECT_DIR$/configClientBook/pom.xml" />
         <option value="$PROJECT_DIR$/configEurekaBook/pom.xml" />
+        <option value="$PROJECT_DIR$/sringCloudCustomer/pom.xml" />
+        <option value="$PROJECT_DIR$/userServiceBook/pom.xml" />
+        <option value="$PROJECT_DIR$/gatewayServiceBook/pom.xml" />
+        <option value="$PROJECT_DIR$/zipkinServerBook/pom.xml" />
       </list>
     </option>
   </component>
