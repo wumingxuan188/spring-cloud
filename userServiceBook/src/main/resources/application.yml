@@ -1,0 +1,19 @@
+spring:
+  rabbitmq:
+    host: 127.0.0.1
+    port: 5672
+    username: guest
+    password: guest
+  zipkin:
+    base-url: http://localhost:9411
+  sleuth:
+    sampler:
+      probability: 1.0
+  application:
+    name: user-service
+server:
+  port: 8762
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:8761/eureka/
